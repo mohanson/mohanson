@@ -6,10 +6,10 @@
 
 ### Projects
 
-- RISC-V VM: [Github](http://github.com/nervosnetwork/ckb-vm)
-- WebAssembly VM: [Github](https://github.com/mohanson/pywasm)
-- WebAssembly AOT Compiler: [Github](https://github.com/mohanson/wasc)
-- Gameboy Simulator: [Github](https://github.com/mohanson/gameboy)
+- RISC-V VM: <http://github.com/nervosnetwork/ckb-vm>
+- WebAssembly VM: <https://github.com/mohanson/pywasm>
+- WebAssembly AOT Compiler: <https://github.com/mohanson/wasc>
+- Gameboy Simulator: <https://github.com/mohanson/gameboy>
 
 ### Skills
 
@@ -21,15 +21,15 @@
 
 ## Blockchain Development
 
-- BTC SDK: [GitHub](https://github.com/mohanson/pybtc)
-- ETH SDK: [GitHub](https://github.com/mohanson/pyeth)
-- SOL SDK: [GitHub](https://github.com/mohanson/pysol)
-- CKB SDK: [GitHub](https://github.com/mohanson/pyckb)
+- BTC SDK: <https://github.com/mohanson/pybtc>
+- ETH SDK: <https://github.com/mohanson/pyeth>
+- SOL SDK: <https://github.com/mohanson/pysol>
+- CKB SDK: <https://github.com/mohanson/pyckb>
 
 ## Networking Knowledge
 
-- Proxy Development: [GitHub](https://github.com/mohanson/daze) (formerly had 700 stars, made private and lost stars)
+- Proxy development: <https://github.com/mohanson/daze>
 
 ## Contributions
 
-- Emscripten: Developed a LEB128 encoding and decoding library [Github](https://github.com/emscripten-core/emscripten/tree/main/third_party/leb128).
+- Emscripten: Developed a leb128 encoding and decoding library <https://github.com/emscripten-core/emscripten/tree/main/third_party/leb128>
