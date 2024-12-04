@@ -33,3 +33,4 @@
 ## Contributions
 
 - Emscripten: Developed a leb128 encoding and decoding library <https://github.com/emscripten-core/emscripten/tree/main/third_party/leb128>
+- Go-ethereum: Submit multiple improvements <https://github.com/ethereum/go-ethereum/pulls?q=author%3Amohanson>
