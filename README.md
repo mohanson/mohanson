@@ -21,10 +21,10 @@
 
 ## Blockchain Development
 
-- BTC SDK: <https://github.com/mohanson/pybtc>
-- ETH SDK: <https://github.com/mohanson/pyeth>
-- SOL SDK: <https://github.com/mohanson/pysol>
-- CKB SDK: <https://github.com/mohanson/pyckb>
+- BTC Library: <https://github.com/mohanson/yabtc>
+- ETH Library: <https://github.com/mohanson/pyeth>
+- SOL Library: <https://github.com/mohanson/pysol>
+- CKB Library: <https://github.com/mohanson/pyckb>
 
 ## Networking Knowledge
 
