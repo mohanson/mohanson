@@ -21,8 +21,8 @@
 
 ## Blockchain Development
 
-- BTC Library: <https://github.com/mohanson/yabtc>
-- ETH Library: <https://github.com/mohanson/pyeth>
+- BTC Library: <https://github.com/mohanson/pabtc>
+- ETH Library: <https://github.com/mohanson/pleth>
 - SOL Library: <https://github.com/mohanson/pysol>
 - CKB Library: <https://github.com/mohanson/pyckb>
 
