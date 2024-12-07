@@ -23,7 +23,7 @@
 
 - BTC Library: <https://github.com/mohanson/pabtc>
 - ETH Library: <https://github.com/mohanson/pleth>
-- SOL Library: <https://github.com/mohanson/pysol>
+- SOL Library: <https://github.com/mohanson/pxsol>
 - CKB Library: <https://github.com/mohanson/pyckb>
 
 ## Networking Knowledge
