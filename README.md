@@ -23,7 +23,7 @@
 
 - BTC Library: <https://github.com/mohanson/pabtc>
 - ETH Library: <https://github.com/mohanson/pleth>
-- SOL Library: <https://github.com/mohanson/pxsol>
+- SOL Library: <https://github.com/mohanson/pxsol>. Pxsol is sponsored by the Solana Foundation.
 - CKB Library: <https://github.com/mohanson/pyckb>
 
 ## Networking Knowledge
