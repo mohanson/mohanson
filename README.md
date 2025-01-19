@@ -23,7 +23,7 @@
 
 - BTC Library: <https://github.com/mohanson/pabtc>
 - ETH Library: <https://github.com/mohanson/pleth>
-- SOL Library: <https://github.com/mohanson/pxsol>
+- SOL Library: <https://github.com/mohanson/pxsol>. Pxsol is sponsored by the Solana Foundation.
 - CKB Library: <https://github.com/mohanson/pyckb>
 
 ## Networking Knowledge
@@ -34,3 +34,4 @@
 
 - Emscripten: Developed a leb128 encoding and decoding library <https://github.com/emscripten-core/emscripten/tree/main/third_party/leb128>
 - Go-ethereum: Submit multiple improvements <https://github.com/ethereum/go-ethereum/pulls?q=author%3Amohanson>
+- Go: Just some minor changes to be honest, but I'm proud of it <https://github.com/golang/go/pulls?q=author%3Amohanson>
